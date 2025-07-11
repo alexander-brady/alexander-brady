@@ -1,6 +1,6 @@
 ### Hi, I'm Alexander 👋
 
-I am a Software Engineer and Graduate Student at ETH Zurich. 
+I am an AI researcher, engineer and graduate student at ETH Zurich. Currently exploring the grounding capabilities of vision-language models at the ETH AI Center. 
 
 <!--
 **alexander-brady/alexander-brady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
